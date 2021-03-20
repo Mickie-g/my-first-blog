@@ -1,6 +1,6 @@
 ---
 
-title:  "我的第一篇文章"
+title:  "与编程的初遇"
 feature: true
 author: "ggbond"
 image: "assets/images/0318-004.png"
